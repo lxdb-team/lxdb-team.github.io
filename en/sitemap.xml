@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://web.lxdb.de/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/en/impressum/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/impressum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/impressum/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/en/lms/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/lms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/lms/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/en/datenschutzerkl%C3%A4rung/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/datenschutzerkl%C3%A4rung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/datenschutzerkl%C3%A4rung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/en/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/privacy-policy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/tags/"
+                />
+  </url>
+  
+</urlset>

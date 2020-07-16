@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://web.lxdb.de/de/blog/</loc>
+    <lastmod>2020-05-16T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/</loc>
+    <lastmod>2020-05-16T18:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/blog/lxdb-mediasorter-version-2020.05-ist-verfugbar/</loc>
+    <lastmod>2020-05-16T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/datenschutzerkl%C3%A4rung/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/datenschutzerkl%C3%A4rung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/datenschutzerkl%C3%A4rung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/privacy-policy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/author/denys-konovalov/</loc>
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/impressum/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/impressum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/impressum/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/lms/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/lms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/lms/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/tags/"
+                />
+  </url>
+  
+</urlset>

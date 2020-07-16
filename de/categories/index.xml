@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on LXDB</title>
+    <link>https://web.lxdb.de/de/categories/</link>
+    <description>Recent content in Categories on LXDB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Copyright &amp;copy; 2019-2020 [LXDB Team](https://web.lxdb.de)</copyright>
+    
+	<atom:link href="https://web.lxdb.de/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LXDB</title>
+    <link>https://web.lxdb.de/de/</link>
+    <description>Recent content on LXDB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Copyright &amp;copy; 2019-2020 [LXDB Team](https://web.lxdb.de)</copyright>
+    <lastBuildDate>Sat, 16 May 2020 18:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://web.lxdb.de/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LXDB MediaSorter Version 2020.05 ist verfügbar !</title>
+      <link>https://web.lxdb.de/de/blog/lxdb-mediasorter-version-2020.05-ist-verfugbar/</link>
+      <pubDate>Sat, 16 May 2020 18:00:00 +0000</pubDate>
+      
+      <guid>https://web.lxdb.de/de/blog/lxdb-mediasorter-version-2020.05-ist-verfugbar/</guid>
+      <description>Test 1
+Test 2
+Test 3
+Test 4
+Test 5
+Test 6
+Test 7
+Test 8</description>
+    </item>
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://web.lxdb.de/de/datenschutzerkl%C3%A4rung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.lxdb.de/de/datenschutzerkl%C3%A4rung/</guid>
+      <description>Einleitung Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als &amp;ldquo;Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten.</description>
+    </item>
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://web.lxdb.de/de/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.lxdb.de/de/privacy-policy/</guid>
+      <description>Einleitung Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als &amp;ldquo;Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten.</description>
+    </item>
+    
+    <item>
+      <title>Denys Konovalov</title>
+      <link>https://web.lxdb.de/de/author/denys-konovalov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.lxdb.de/de/author/denys-konovalov/</guid>
+      <description>Mein Name ist Denys Konovalov und ich bin der Initiator des LXDB-Projekts. Ende 2018 habe ich die Welt der freien Software kennengelernt und seit diesem Moment bin ich fest davon überzeugt dass OpenSource der einzige Weg in eine freie technologische Zukunft ist.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://web.lxdb.de/de/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.lxdb.de/de/impressum/</guid>
+      <description>Angaben gemäß § 5 TMG
+Denys Konovalov
+Brucknerstraße 8
+06110 Halle(Saale)
+Kontakt Telefon: +49 (0) 1708909754</description>
+    </item>
+    
+    <item>
+      <title>LXDB MediaSorter herunterladen</title>
+      <link>https://web.lxdb.de/de/lms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.lxdb.de/de/lms/</guid>
+      <description>Bringen sie ihre Dateien in Ordnung !
+LXDB MediaSorter ? - Aber was ist das ?</description>
+    </item>
+    
+  </channel>
+</rss>
