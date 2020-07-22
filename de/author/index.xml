@@ -20,5 +20,14 @@
       <description>Mein Name ist Denys Konovalov und ich bin der Initiator des LXDB-Projekts. Ende 2018 habe ich die Welt der freien Software kennengelernt und seit diesem Moment bin ich fest davon überzeugt dass OpenSource der einzige Weg in eine freie technologische Zukunft ist.</description>
     </item>
     
+    <item>
+      <title>Fabian Ecke</title>
+      <link>https://web.lxdb.de/de/author/fabian-ecke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.lxdb.de/de/author/fabian-ecke/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

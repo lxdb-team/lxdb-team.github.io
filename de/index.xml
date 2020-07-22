@@ -18,14 +18,7 @@
       <pubDate>Sat, 16 May 2020 18:00:00 +0000</pubDate>
       
       <guid>https://web.lxdb.de/de/blog/lxdb-mediasorter-version-2020.05-ist-verfugbar/</guid>
-      <description>Test 1
-Test 2
-Test 3
-Test 4
-Test 5
-Test 6
-Test 7
-Test 8</description>
+      <description>tsjjjjjjjjjjjjjjjjjjjjjjjjjjsz hdfcvkdmk</description>
     </item>
     
     <item>
@@ -56,6 +49,15 @@ Test 8</description>
     </item>
     
     <item>
+      <title>Fabian Ecke</title>
+      <link>https://web.lxdb.de/de/author/fabian-ecke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.lxdb.de/de/author/fabian-ecke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Impressum</title>
       <link>https://web.lxdb.de/de/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -69,13 +71,13 @@ Kontakt Telefon: +49 (0) 1708909754</description>
     </item>
     
     <item>
-      <title>LXDB MediaSorter herunterladen</title>
-      <link>https://web.lxdb.de/de/lms/</link>
+      <title>LXDB MediaSorter installation</title>
+      <link>https://web.lxdb.de/de/lms/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://web.lxdb.de/de/lms/</guid>
-      <description>Bringen sie ihre Dateien in Ordnung !
-LXDB MediaSorter ? - Aber was ist das ?</description>
+      <guid>https://web.lxdb.de/de/lms/linux/</guid>
+      <description>LXDB MediaSorter installieren LXDB MediaSorter ist unter den meisten Linux-Distributionen installierbar.
+Installationsmethoden   Installation als Python-Paket aus GIT-Repository(exiftool muss als Abhängigkeit extra installiert werden)</description>
     </item>
     
   </channel>

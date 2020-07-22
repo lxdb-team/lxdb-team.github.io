@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lms on LXDB</title>
+    <link>https://web.lxdb.de/en/lms/</link>
+    <description>Recent content in Lms on LXDB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>copyright &amp;copy; 2019-2020 [LXDB Team](https://web.lxdb.de)</copyright>
+    
+	<atom:link href="https://web.lxdb.de/en/lms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LXDB MediaSorter herunterladen</title>
+      <link>https://web.lxdb.de/en/lms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.lxdb.de/en/lms/</guid>
+      <description>Bringen Sie ihre Dateien in Ordnung !
+LXDB MediaSorter ? - Aber was ist das ?</description>
+    </item>
+    
+  </channel>
+</rss>

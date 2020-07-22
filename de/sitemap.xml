@@ -78,6 +78,10 @@
   </url>
   
   <url>
+    <loc>https://web.lxdb.de/de/author/fabian-ecke/</loc>
+  </url>
+  
+  <url>
     <loc>https://web.lxdb.de/de/impressum/</loc>
     <xhtml:link
                 rel="alternate"
@@ -103,6 +107,10 @@
                 hreflang="de"
                 href="https://web.lxdb.de/de/lms/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/lms/linux/</loc>
   </url>
   
   <url>
