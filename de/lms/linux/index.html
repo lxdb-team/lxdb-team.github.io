@@ -137,6 +137,9 @@
     <li><a href="#lxdb-mediasorter-installieren">LXDB MediaSorter installieren</a>
       <ul>
         <li><a href="#installationsmethoden">Installationsmethoden</a></li>
+        <li><a href="#1-installation-als-python-paket">1. Installation als Python-Paket</a></li>
+        <li><a href="#2-installation-aus-der-lxdb-paketquelle">2. Installation aus der LXDB-Paketquelle</a></li>
+        <li><a href="#3-installation-mit-deb--oder-rpm-datei">3. Installation mit DEB- oder RPM-Datei</a></li>
       </ul>
     </li>
   </ul>
@@ -151,21 +154,22 @@
 <p>Installation als Python-Paket aus GIT-Repository(<code>exiftool</code> muss als Abhängigkeit extra installiert werden)</p>
 </li>
 <li>
-<p>Installation aus der LXDB-Paketquelle(Alle Abhängigkeiten werden mitinstalliert)</p>
+<p>Installation aus der LXDB-Paketquelle(Alle Abhängigkeiten werden mit installiert)</p>
 </li>
 <li>
 <p>Installation aus einem DEB/RPM-Paket</p>
 </li>
 </ul>
-<h4 id="1-installation-als-python-paket">1. Installation als Python-Paket</h4>
-<p><a href="https://pypi.org">PyPi.org</a> ist die größte Paketquelle für Python-Programme und Bibliotheken. Um LXDB MediaSorter aus der PyPi-Quelle zu installieren, muss das Paket <code>python3-pip</code> im System installiert sein.</p>
+<h3 id="1-installation-als-python-paket">1. Installation als Python-Paket</h3>
+<p>Mit Hilde des Python-Paketmanagers <code>pip</code> kann LXDB MediaSorter direkt aus den Quellen installiert werden.
+Um LXDB MediaSorter aus dem Quell-Paket zu installieren, muss das Paket <code>python3-pip</code> im System installiert sein.</p>
 <p>Zur Installation muss der folgende Befehl ausgeführt werden:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">python3 -m pip install git+https://github.com/lxdb/lms.git
 </code></pre></div><p>Desweiteren muss das Kommandozeilenprogramm <code>exiftool</code> installiert werden.</p>
 <p>Dieses ist z.B. unter RPM-Distributionen im Paket <code>perl-Image-ExifTool</code> oder unter DEB-Distributionen im Paket <code>libimage-exiftool-perl</code> verfügbar.</p>
-<h4 id="2-installation-aus-der-lxdb-paketquelle">2. Installation aus der LXDB-Paketquelle</h4>
+<h3 id="2-installation-aus-der-lxdb-paketquelle">2. Installation aus der LXDB-Paketquelle</h3>
 <p>Im LXDB-Repository sind fertige DEB- und RPM-Pakete verfügbar, die in allen Debian- und RPM-basierenden Distributionen installiert werden können.</p>
-<h5 id="installation-mit-apt-paketmanager">Installation mit APT-Paketmanager</h5>
+<h4 id="installation-mit-apt-paketmanager">Installation mit APT-Paketmanager</h4>
 <ol>
 <li>
 <p>Repository hinzufügen:</p>
@@ -179,7 +183,7 @@ sudo apt update
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo apt install python3-lms
 </code></pre></div></li>
 </ol>
-<h5 id="installation-mit-dnf-paketmanager">Installation mit DNF-Paketmanager</h5>
+<h4 id="installation-mit-dnf-paketmanager">Installation mit DNF-Paketmanager</h4>
 <ol>
 <li>
 <p>Repository hinzufügen:</p>
@@ -193,7 +197,7 @@ sudo dnf check-update
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo dnf install lms
 </code></pre></div></li>
 </ol>
-<h5 id="instalation-mit-yum-paketmanager">Instalation mit YUM-Paketmanager</h5>
+<h4 id="instalation-mit-yum-paketmanager">Instalation mit YUM-Paketmanager</h4>
 <ol>
 <li>
 <p>Repository hinzufügen:</p>
@@ -207,7 +211,7 @@ sudo yum update
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo yum install lms
 </code></pre></div></li>
 </ol>
-<h5 id="installation-mit-zypper-paketmanager">Installation mit ZYPPER-Paketmanager</h5>
+<h4 id="installation-mit-zypper-paketmanager">Installation mit ZYPPER-Paketmanager</h4>
 <ol>
 <li>
 <p>Repository hinzufügen:</p>
@@ -221,7 +225,7 @@ sudo zypper refresh
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo zypper in lms
 </code></pre></div></li>
 </ol>
-<h4 id="3-installation-mit-deb--oder-rpm-datei">3. Installation mit DEB- oder RPM-Datei</h4>
+<h3 id="3-installation-mit-deb--oder-rpm-datei">3. Installation mit DEB- oder RPM-Datei</h3>
 <p><a href="https://dl.bintray.com/lxdb/deb/lms_2020.4_amd64.deb">DEB-Datei herunterladen</a></p>
 <p><a href="https://dl.bintray.com/lxdb/rpm/lms_2020.4_amd64.rpm">RPM-Datei herunterladen</a></p>
 
