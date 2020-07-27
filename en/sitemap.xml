@@ -31,20 +31,6 @@
   </url>
   
   <url>
-    <loc>https://web.lxdb.de/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://web.lxdb.de/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://web.lxdb.de/en/"
-                />
-  </url>
-  
-  <url>
     <loc>https://web.lxdb.de/en/lms/</loc>
     <xhtml:link
                 rel="alternate"
@@ -55,6 +41,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://web.lxdb.de/en/lms/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/"
                 />
   </url>
   
