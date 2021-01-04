@@ -1,8 +1,6 @@
 backend:
-  name: github
-  repo: lxdb-team/lxdb-website
+  name: git-gateway
   branch: master
-  site_domain: d5880f.netlify.app
 
 media_folder: "/static/images"
 public_folder: "/images"
