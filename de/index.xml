@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LXDB Team</title>
-    <link>https://d5880f.netlify.app/de/</link>
+    <link>https://web.lxdb.de/de/</link>
     <description>Recent content on LXDB Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright &amp;copy; 2019-2021 [LXDB Team](https://web.lxdb.de)</copyright>
     <lastBuildDate>Mon, 04 Jan 2021 13:46:19 +0000</lastBuildDate>
     
-	<atom:link href="https://d5880f.netlify.app/de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://web.lxdb.de/de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LXDB MediaSorter Version 1.0.0 ist verfügbar !</title>
-      <link>https://d5880f.netlify.app/de/blog/lxdb-mediasorter-version-1.0.0-ist-verfugbar/</link>
+      <link>https://web.lxdb.de/de/blog/lxdb-mediasorter-version-1.0.0-ist-verfugbar/</link>
       <pubDate>Mon, 04 Jan 2021 13:46:19 +0000</pubDate>
       
-      <guid>https://d5880f.netlify.app/de/blog/lxdb-mediasorter-version-1.0.0-ist-verfugbar/</guid>
+      <guid>https://web.lxdb.de/de/blog/lxdb-mediasorter-version-1.0.0-ist-verfugbar/</guid>
       <description>FMDS ist jetzt LXDB MediaSorter ! Das erste Programm von LXDB hieß FMDS und war ein Werkzeug zum Sortieren von Dateien.</description>
     </item>
     
     <item>
       <title>Datenschutzerklärung</title>
-      <link>https://d5880f.netlify.app/de/privacy-policy/</link>
+      <link>https://web.lxdb.de/de/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://d5880f.netlify.app/de/privacy-policy/</guid>
+      <guid>https://web.lxdb.de/de/privacy-policy/</guid>
       <description>Einleitung Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als &amp;ldquo;Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten.</description>
     </item>
     
     <item>
       <title>Denys Konovalov</title>
-      <link>https://d5880f.netlify.app/de/author/denys-konovalov/</link>
+      <link>https://web.lxdb.de/de/author/denys-konovalov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://d5880f.netlify.app/de/author/denys-konovalov/</guid>
+      <guid>https://web.lxdb.de/de/author/denys-konovalov/</guid>
       <description>Mein Name ist Denys Konovalov und ich bin der Initiator des LXDB-Projekts. Ende 2018 habe ich die Welt der freien Software kennengelernt und seit diesem Moment bin ich fest davon überzeugt dass OpenSource der einzige Weg in eine freie technologische Zukunft ist.</description>
     </item>
     
     <item>
       <title>Fabian Ecke</title>
-      <link>https://d5880f.netlify.app/de/author/fabian-ecke/</link>
+      <link>https://web.lxdb.de/de/author/fabian-ecke/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://d5880f.netlify.app/de/author/fabian-ecke/</guid>
+      <guid>https://web.lxdb.de/de/author/fabian-ecke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>https://d5880f.netlify.app/de/impressum/</link>
+      <link>https://web.lxdb.de/de/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://d5880f.netlify.app/de/impressum/</guid>
+      <guid>https://web.lxdb.de/de/impressum/</guid>
       <description>Angaben gemäß § 5 TMG
 Denys Konovalov
 Brucknerstraße 8
@@ -63,10 +63,10 @@ Kontakt Telefon: +49 (0) 1708909754</description>
     
     <item>
       <title>LXDB MediaSorter installation</title>
-      <link>https://d5880f.netlify.app/de/lms/linux/</link>
+      <link>https://web.lxdb.de/de/lms/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://d5880f.netlify.app/de/lms/linux/</guid>
+      <guid>https://web.lxdb.de/de/lms/linux/</guid>
       <description>LXDB MediaSorter installieren LXDB MediaSorter ist unter den meisten Linux-Distributionen installierbar.
 Installationsmethoden   Installation als Python-Paket aus GIT-Repository(exiftool muss als Abhängigkeit extra installiert werden)</description>
     </item>

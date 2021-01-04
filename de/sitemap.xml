@@ -3,113 +3,113 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://d5880f.netlify.app/de/blog/</loc>
+    <loc>https://web.lxdb.de/de/blog/</loc>
     <lastmod>2021-01-04T13:46:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://d5880f.netlify.app/de/blog/lxdb-mediasorter-version-1.0.0-ist-verfugbar/</loc>
+    <loc>https://web.lxdb.de/de/blog/lxdb-mediasorter-version-1.0.0-ist-verfugbar/</loc>
     <lastmod>2021-01-04T13:46:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://d5880f.netlify.app/de/</loc>
+    <loc>https://web.lxdb.de/de/</loc>
     <lastmod>2021-01-04T13:46:19+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://d5880f.netlify.app/en/"
+                href="https://web.lxdb.de/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://d5880f.netlify.app/de/"
+                href="https://web.lxdb.de/de/"
                 />
   </url>
   
   <url>
-    <loc>https://d5880f.netlify.app/de/author/</loc>
+    <loc>https://web.lxdb.de/de/author/</loc>
   </url>
   
   <url>
-    <loc>https://d5880f.netlify.app/de/categories/</loc>
+    <loc>https://web.lxdb.de/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://d5880f.netlify.app/en/categories/"
+                href="https://web.lxdb.de/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://d5880f.netlify.app/de/categories/"
+                href="https://web.lxdb.de/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://d5880f.netlify.app/de/privacy-policy/</loc>
+    <loc>https://web.lxdb.de/de/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://d5880f.netlify.app/en/privacy-policy/"
+                href="https://web.lxdb.de/en/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://d5880f.netlify.app/de/privacy-policy/"
+                href="https://web.lxdb.de/de/privacy-policy/"
                 />
   </url>
   
   <url>
-    <loc>https://d5880f.netlify.app/de/author/denys-konovalov/</loc>
+    <loc>https://web.lxdb.de/de/author/denys-konovalov/</loc>
   </url>
   
   <url>
-    <loc>https://d5880f.netlify.app/de/author/fabian-ecke/</loc>
+    <loc>https://web.lxdb.de/de/author/fabian-ecke/</loc>
   </url>
   
   <url>
-    <loc>https://d5880f.netlify.app/de/impressum/</loc>
+    <loc>https://web.lxdb.de/de/impressum/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://d5880f.netlify.app/en/impressum/"
+                href="https://web.lxdb.de/en/impressum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://d5880f.netlify.app/de/impressum/"
+                href="https://web.lxdb.de/de/impressum/"
                 />
   </url>
   
   <url>
-    <loc>https://d5880f.netlify.app/de/lms/</loc>
+    <loc>https://web.lxdb.de/de/lms/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://d5880f.netlify.app/en/lms/"
+                href="https://web.lxdb.de/en/lms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://d5880f.netlify.app/de/lms/"
+                href="https://web.lxdb.de/de/lms/"
                 />
   </url>
   
   <url>
-    <loc>https://d5880f.netlify.app/de/lms/linux/</loc>
+    <loc>https://web.lxdb.de/de/lms/linux/</loc>
   </url>
   
   <url>
-    <loc>https://d5880f.netlify.app/de/tags/</loc>
+    <loc>https://web.lxdb.de/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://d5880f.netlify.app/en/tags/"
+                href="https://web.lxdb.de/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://d5880f.netlify.app/de/tags/"
+                href="https://web.lxdb.de/de/tags/"
                 />
   </url>
   
