@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://web.lxdb.de/de/blog/</loc>
+    <lastmod>2021-01-04T13:46:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/blog/lxdb-mediasorter-version-1.0.0-ist-verfugbar/</loc>
+    <lastmod>2021-01-04T13:46:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.lxdb.de/de/</loc>
+    <lastmod>2021-01-04T13:46:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://web.lxdb.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://web.lxdb.de/de/"
+                />
+  </url>
+  
+  <url>
     <loc>https://web.lxdb.de/de/author/</loc>
   </url>
   
@@ -72,20 +97,6 @@
   
   <url>
     <loc>https://web.lxdb.de/de/lms/linux/</loc>
-  </url>
-  
-  <url>
-    <loc>https://web.lxdb.de/de/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://web.lxdb.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://web.lxdb.de/de/"
-                />
   </url>
   
   <url>
