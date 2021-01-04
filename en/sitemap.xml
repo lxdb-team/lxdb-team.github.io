@@ -59,20 +59,6 @@
   </url>
   
   <url>
-    <loc>https://web.lxdb.de/en/datenschutzerkl%C3%A4rung/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://web.lxdb.de/de/datenschutzerkl%C3%A4rung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://web.lxdb.de/en/datenschutzerkl%C3%A4rung/"
-                />
-  </url>
-  
-  <url>
     <loc>https://web.lxdb.de/en/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
