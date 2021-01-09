@@ -6,10 +6,6 @@
     <description>Recent content in Tags on LXDB Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <copyright>Copyright &amp;copy; 2019-2021 [LXDB Team](https://web.lxdb.de)</copyright>
-    
-	<atom:link href="https://web.lxdb.de/de/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2019-2021 [LXDB Team](https://web.lxdb.de)</copyright><atom:link href="https://web.lxdb.de/de/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
